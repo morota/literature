@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-Literature
+A guide to quantitative genetics papers
 
 ### Posts [![](images/feed-icon-14x14.png)](rss.xml)
 
