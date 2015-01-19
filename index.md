@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A guide to quantitative genetics papers
+title: A guide to QuantGen papers
 tagline: 
 ---
 {% include JB/setup %}
