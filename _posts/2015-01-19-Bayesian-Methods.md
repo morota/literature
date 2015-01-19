@@ -12,7 +12,7 @@ This page contains a collection of papers that set milestones in using a Bayesia
 Pehaps this is the first attempt to investigate the connection between BLUP/Selection Index and Bayesian Inference.
 
 * DA Harville. (1974). [Bayesian inference for variance components using only error contrasts](http://biomet.oxfordjournals.org/content/61/2/383.abstract). Biometrika. 61:383-385.  
-This paper demonstrated that when flat priors were assigned for fixed effects and variance components, REML is essentially equal to the mode of the marginal posterior density of the variance components in a Bayesian setting. 
+This paper demonstrated that when flat priors were assigned for fixed effects and variance components, REML is essentially equal to the mode of the marginal posterior density of the variance components in a Bayesian model. 
 
 * D Gianola and RL Fernando. (1986). [Bayesian methods in animal breeding theory](https://www.animalsciencepublications.org/publications/jas/abstracts/63/1/JAN0630010217). J. Anim. Sci. 63:217-244.
 A comprehensive review of Bayesian methods in the pre MCMC era. It offers a Bayesian view of variance component estimation, prediction of genetic values with or without selection, and non-linear models. 
