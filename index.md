@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Literature
+title: A guide to quantitative genetics papers
 tagline: 
 ---
 {% include JB/setup %}
-
-A guide to quantitative genetics papers
 
 ### Posts [![](images/feed-icon-14x14.png)](rss.xml)
 
