@@ -15,7 +15,7 @@ Pehaps this is the first attempt to investigate the connection between BLUP/Sele
 A comprehensive review of Bayesian methods in the pre MCMC era. It offers a Bayesian view of variance component estimation, prediction of genetic values with or without selection, and non-linear models. 
 
 *  D Gianola and JL Foulley. (1990). [Variance estimation from integrated likelihoods (VEIL)](http://www.gsejournal.org/content/22/4/403). Genet Sel Evol. 22:403-417.  
-Bayesian estimation of variance components in the pre MCMC era. 
+An attempt to perform Bayesian estimation of variance components in the pre MCMC era. 
 
 * SW Guo  and EA Thompson. (1991). [Monte Carlo estimation of variance component models for large complex pedigrees](http://imammb.oxfordjournals.org/content/8/3/171.abstract). IMA J Math Appl Med Biol. 8:171-189.  
 The first application of Gibbs sampling in quantitative genetics.
