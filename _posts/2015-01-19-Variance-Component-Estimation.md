@@ -12,7 +12,7 @@ This page contains a collection of papers related to estimation of variance comp
 Discussion on a consistency and asymptotic efficiency of ML in the pre REML era. 
 
 * HD Patterson and R Thompson. (1971). [Recovery of inter-block information when block sizes are unequal](http://biomet.oxfordjournals.org/content/58/3/545.abstract). Biometrika. 58:545-554.  
-This is a seminal paper describing REML. REML accounts for loss of degrees of freedom arising in estimating fixed effects. 
+This is a seminal paper describing REML. REML accounts for loss of degrees of freedom arised in estimating fixed effects. 
 
 * DA Harville. (1977). [Maximum likelihood approaches to variance component estimation and to related problems](http://www.tandfonline.com/doi/abs/10.1080/01621459.1977.10480998#.VL2LrHY8qt8). Journal of the American Statistical Association. 72:320-338.  
 A comprehensive review of ML and REML to variance component estimation. 
