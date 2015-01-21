@@ -6,7 +6,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-This page contains a collection of papers related to estimation of variance components. The techniques developed in this area are being used to infer both pedigree and genome-based heritability of complex traits. 
+This page contains a collection of papers related to estimation of variance components. The techniques developed in this area are being used to infer both pedigree and genome-based heritabilities of complex traits. 
 
 * HO Hartley and JNK Rao. (1967). [Maximum-likelihood estimation for the mixed analysis of variance model](http://biomet.oxfordjournals.org/content/54/1-2/93.abstract). Biometrika. 54:93-108.  
 Discussion on a consistency and asymptotic efficiency of ML in the pre REML era. 
