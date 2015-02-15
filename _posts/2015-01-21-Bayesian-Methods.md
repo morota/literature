@@ -32,7 +32,7 @@ The first application of Gibbs sampling using real data in animal breeding. An a
 * J Jensen et al. (1994). [Bayesian inference on variance and covariance components for traits influenced by maternal and direct genetic effects, using the Gibbs sampler](http://www.tandfonline.com/doi/abs/10.1080/09064709409410898#.VL1wJXY8qt8). Acta. Agric. Scand., Sect. A, Animal Sci. 44:193-201.  
 A Bayesian analysis of maternal and direct genetic effects. 
 
-* J Albert and S Chib. (1993). [Bayesian analysis of binary and polychotomous response data](http://www.jstor.org/discover/10.2307/2290350). J. Am. Stat. Assoc. 88:669–679. 
+* J Albert and S Chib. (1993). [Bayesian analysis of binary and polychotomous response data](http://www.jstor.org/discover/10.2307/2290350). J. Am. Stat. Assoc. 88:669–679.  
 The first Bayesian MCMC implementation of threshold models. 
 
 * DA Sorensen et al. (1995). [Bayesian inference in threshold models using Gibbs sampling](http://www.gsejournal.org/content/27/3/229). Genet Sel Evol. 27:229-249.  
