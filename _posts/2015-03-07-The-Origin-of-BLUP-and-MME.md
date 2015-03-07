@@ -12,13 +12,13 @@ Although published in 1963, it was given in 1961 and not yet named BLUP.
 Goldberger (1962) was the first to use the term "best linear unbiased predictor". 
 The acronym "BLUP" was coined by Henderson (1973). 
 
-* Henderson CR. (1949). Estimation of changes in herd environment.  J Dairy Sci. (Abstract) 32: 706. [PDF](http://morotalab.org/literature/pdf/henderson1949.pdf)
+* Henderson CR. (1949). Estimation of changes in herd environment.  J Dairy Sci. (Abstract) 32: 706. [[PDF](http://morotalab.org/literature/pdf/henderson1949.pdf)]
 
-* Henderson CR. (1950). Estimation of genetic parameters. Ann Math Stat. (Abstract) 21: 309-310. [PDF](http://morotalab.org/literature/pdf/henderson1950.pdf)
+* Henderson CR. (1950). Estimation of genetic parameters. Ann Math Stat. (Abstract) 21: 309-310. [[PDF](http://morotalab.org/literature/pdf/henderson1950.pdf)]
 
 * Henderson CR, Kempthorne O, Searle SR, and Von Krosigk CM. (1959). The Estimation of environmental and genetic trends from records subject to culling. Biometrics 15: 192–218. 
 
-* Henderson CR. (1963). Selection index and expected genetic advance. In Statistical Genetics and Plant Breeding 141-163. NAS-NRC 982, Washington, DC. [PDF](http://morotalab.org/literature/pdf/henderson1963.pdf)
+* Henderson CR. (1963). Selection index and expected genetic advance. In Statistical Genetics and Plant Breeding 141-163. NAS-NRC 982, Washington, DC. [[PDF](http://morotalab.org/literature/pdf/henderson1963.pdf)]
 
 * Goldberger AS. (1962). Best linear unbiased prediction in the generalized linear regression model. J Am Statis Ass. 57: 369-375
 
