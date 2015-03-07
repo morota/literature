@@ -1,6 +1,7 @@
 ---
 layout: post
 category:
+title: "The Origin of BLUP and MME"
 tagline: 
 tags: []
 ---
