@@ -9,7 +9,7 @@ tags: []
 
 The origin of mixed model equations appears in two abstracts published by Henderson (1949, 1950). 
 The formal proof that beta and u in Henderson (1949, 1950) are BLUE and BLUP is given in Henderson et al. (1959) and Henderson (1963), respectively. 
-Although published in 1963, it was given in 1961 and not yet named BLUP. 
+The latter was given in 1961, althgough published in 1963 and not yet named BLUP. 
 Goldberger (1962) was the first to use the term "best linear unbiased predictor". 
 The acronym "BLUP" was coined by Henderson (1973).
 A copy of Henderson (1949, 1950, 1963) were obtained from my colleague Dr. Dale Van Vleck at UNL. 
