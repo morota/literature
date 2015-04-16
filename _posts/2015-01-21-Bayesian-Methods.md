@@ -20,6 +20,9 @@ A comprehensive review of Bayesian methods in the pre MCMC era. It offers a Baye
 *  D Gianola and JL Foulley. (1990). [Variance estimation from integrated likelihoods (VEIL)](http://www.gsejournal.org/content/22/4/403). Genet Sel Evol. 22:403-417.  
 An attempt to perform Bayesian estimation of variance components in the pre MCMC era. 
 
+* AE Gelfand and AFM Smith. (1990). [Sampling-based approaches to calculating marginal densities](http://www.tandfonline.com/doi/abs/10.1080/01621459.1990.10476213#preview). Journal of the American Statistical Association. 85:398-409. 
+One of the first application of Gibbs sampling in genetics.  
+
 * SW Guo  and EA Thompson. (1991). [Monte Carlo estimation of variance component models for large complex pedigrees](http://imammb.oxfordjournals.org/content/8/3/171.abstract). IMA J Math Appl Med Biol. 8:171-189.  
 The first application of Gibbs sampling in quantitative genetics.
 
