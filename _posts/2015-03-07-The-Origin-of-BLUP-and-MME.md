@@ -26,5 +26,4 @@ I obtained a copy of Henderson (1949, 1950, 1963) from my colleague Dr. Dale Van
 
 * Henderson CR. (1973). Sire evaluation and genetic trends. In Proceedings of the Animal Breeding and Genetics Symposium in Honour of Dr.Jay L. Lush 10-41. ASAS and ADSA, Champaign, Ill. 
 
-
-
+Also see this [correspondence](http://andrewgelman.com/2015/06/10/best-linear-unbiased-prediction-is-exactly-like-the-holy-roman-empire/) between Daniel Gianola and Andrew Gelman. 
